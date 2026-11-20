@@ -35,8 +35,7 @@ NUMBER THA : 40
 
 👨‍💻 Author
 *Rana Abdul Wahab*
-Computer Software developed by Rana Abdul Wahab
-Consultancy: 03685785482
+
 
 ⭐ Agar ye game pasand aaye to Star zaroor dein!
 
